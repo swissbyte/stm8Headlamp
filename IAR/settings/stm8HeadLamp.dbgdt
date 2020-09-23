@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1388</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1041</ColumnWidth1>
+        <ColumnWidth2>277</ColumnWidth2>
+        <ColumnWidth3>69</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30025-560</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-29502-569</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8005-563</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>stm8HeadLamp</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18754-566</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\IAR\main.c</Filename><XPos>0</XPos><YPos>40</YPos><SelStart>973</SelStart><SelEnd>973</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\IAR\stm8s_conf.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2136</SelStart><SelEnd>2146</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\IAR\stm8s_it.c</Filename><XPos>0</XPos><YPos>132</YPos><SelStart>4450</SelStart><SelEnd>4450</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\STM8S_StdPeriph_Lib\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_gpio.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>5491</SelStart><SelEnd>5500</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\STM8S_StdPeriph_Lib\Libraries\STM8S_StdPeriph_Driver\src\stm8s_gpio.c</Filename><XPos>0</XPos><YPos>187</YPos><SelStart>7225</SelStart><SelEnd>7242</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\STM8S_StdPeriph_Lib\Libraries\STM8S_StdPeriph_Driver\src\stm8s_tim1.c</Filename><XPos>0</XPos><YPos>1964</YPos><SelStart>69351</SelStart><SelEnd>69367</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\IAR\stm8s_it.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\STM8S_StdPeriph_Lib\Libraries\STM8S_StdPeriph_Driver\inc\stm8s.h</Filename><XPos>0</XPos><YPos>2601</YPos><SelStart>109166</SelStart><SelEnd>109170</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-059f4c10><key>iaridepm.enu1</key></Toolbar-059f4c10></Sizes></Row0><Row1><Sizes><Toolbar-092cc488><key>debuggergui.enu1</key></Toolbar-092cc488></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>498</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>137836</sizeHorzCX><sizeHorzCY>260417</sizeHorzCY><sizeVertCX>137836</sizeVertCX><sizeVertCY>651042</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>498</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>137836</sizeHorzCX><sizeHorzCY>260417</sizeHorzCY><sizeVertCX>137836</sizeVertCX><sizeVertCY>651042</sizeVertCY></Rect></Wnd2></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1453</Right><x>-2</x><y>-2</y><xscreen>1455</xscreen><yscreen>200</yscreen><sizeHorzCX>1002757</sizeHorzCX><sizeHorzCY>260417</sizeHorzCY><sizeVertCX>137836</sizeVertCX><sizeVertCY>260417</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
